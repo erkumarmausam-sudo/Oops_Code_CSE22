@@ -45,7 +45,7 @@ The repository contains experiments designed to demonstrate the above OOP concep
 
 # 👨‍💻 Author
 
-**Mausam Rajput**
+****Mausam Kumar****
 
 > 💻 C++ | Object-Oriented Programming | Programming & Development
 
@@ -53,8 +53,6 @@ The repository contains experiments designed to demonstrate the above OOP concep
 
 # ⭐ Support ❤️
 
-If you find this repository **useful**, helpful for your **OOP learning**, or useful for your **C++ practical experiments**, please consider giving it a ⭐ **Star** on GitHub.
+<h2>                     If you find this repository **useful**, helpful for your **OOP learning*, please consider giving it a ⭐ **Star** on GitHub.</h2>
 
-**Your support means a lot! ❤️**
 
-> ⭐ **If you found it useful, don't forget to star the repository! ❤️**
