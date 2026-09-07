@@ -53,6 +53,6 @@ The repository contains experiments designed to demonstrate the above OOP concep
 
 # ⭐ Support ❤️
 
-<h2>                     If you find this repository **useful**, helpful for your **OOP learning*, please consider giving it a ⭐ **Star** on GitHub.</h2>
+<h2>               <br> <br>     If you find this repository **useful**, helpful for your **OOP learning*, please consider giving it a ⭐ **Star** on GitHub.</h2>
 
 
