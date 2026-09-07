@@ -42,25 +42,6 @@ The repository contains experiments designed to demonstrate the above OOP concep
 
 ---
 
-# 🛠️ Requirements
-
-To compile and execute the programs, you need:
-
-- 💻 **C++ Compiler**
-- ⚙️ **GCC / G++**
-- 🛠️ **Clang**
-- 🪟 **MSVC**
-- 📝 Any C++ compatible IDE or code editor
-
-### Recommended Editors / IDEs
-
-- Visual Studio Code
-- Code::Blocks
-- Visual Studio
-- Dev-C++
-- Online C++ Compilers
-
----
 
 # 👨‍💻 Author
 
