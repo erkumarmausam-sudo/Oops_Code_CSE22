@@ -1,6 +1,6 @@
 # 💻 C++ Object-Oriented Programming — Practical Experiments
 
-> 🚀 A practical collection of **C++ programs and experiments** covering the fundamental concepts of **Object-Oriented Programming (OOP)**.
+>   A practical collection of **C++ programs and experiments** covering the fundamental concepts of **Object-Oriented Programming (OOP)**.
 
 This repository contains structured OOP experiment programs in C++, covering concepts such as **Classes & Objects, Encapsulation, Data Hiding, Friend Functions, Operator Overloading, Inheritance, and Polymorphism**.
 
@@ -14,7 +14,7 @@ This repository contains practical C++ experiments that demonstrate the implemen
 
 ---
 
-# 🧠 Topics Covered
+#  Topics Covered
 
 | # | Topic | Concepts Covered |
 |:---:|---|---|
