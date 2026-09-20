@@ -1,4 +1,4 @@
-# 💻 C++ Object-Oriented Programming — Practical Experiments
+#  C++ Object-Oriented Programming — Practical Experiments
 
 >   A practical collection of **C++ programs and experiments** covering the fundamental concepts of **Object-Oriented Programming (OOP)**.
 
@@ -13,7 +13,6 @@ Object-Oriented Programming is a programming approach that organizes programs ar
 This repository contains practical C++ experiments that demonstrate the implementation and working of important OOP concepts through simple and structured programs.
 
 ---
-
 #  Topics Covered
 
 | # | Topic | Concepts Covered |
